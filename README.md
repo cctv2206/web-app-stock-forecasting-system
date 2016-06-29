@@ -9,7 +9,7 @@ This is a team project. My main contribution is designing and building a website
 
 [Documentation](https://github.com/cctv2206/web-app-stock-forecasting-system/tree/master/documentation) folder contains all the reports and slides of our project.
 
-[Website](https://github.com/cctv2206/web-app-stock-forecasting-system/tree/master/website) folder contains all the web pages.
+[Website](https://github.com/cctv2206/web-app-stock-forecasting-system/tree/master/website) folder contains all the web pages. (My favourite part of course.)
 
 Please refer to [Project Reprot](https://github.com/cctv2206/web-app-stock-forecasting-system/blob/master/documentation/Final%20Report%20of%20Group%202%20(5.1).pdf) for more information.
 

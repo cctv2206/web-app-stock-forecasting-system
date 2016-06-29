@@ -1,0 +1,10 @@
+PODS:
+  - BBStockChartView (1.0.0)
+
+DEPENDENCIES:
+  - BBStockChartView (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  BBStockChartView: 0467a47ffbbfab2feb755462b3b1346cdd96a960
+
+COCOAPODS: 0.36.3

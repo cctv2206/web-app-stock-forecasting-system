@@ -1,0 +1,6 @@
+GOOG		68
+AAPL		9
+JAVA		40
+HAL		20
+EMC		10
+GE		11

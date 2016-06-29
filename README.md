@@ -1,7 +1,7 @@
 # web-app-stock-forecasting-system
 This is a web application providing stock market prediction and tendency. The system gives advice on investment based on Bayesian curve fitting method and Support Vector Machine algorithm. Raw data was got from Yahoo Finance.
 
-This is a team project. My main contribution is Designing and building a website (in PHP, HTML, MySQL & Javascript) which contains interactive charts visualizing data and login system providing customized service for each user.
+This is a team project. My main contribution is designing and building a website (in PHP, HTML, MySQL & Javascript) which contains interactive charts visualizing data and login system providing customized service for each user.
 
 [Code](https://github.com/cctv2206/web-app-stock-forecasting-system/tree/master/code) folder contains all the code we write, such as indicator(PHP), iOS, android, and prediction strategy algorithm.
 
